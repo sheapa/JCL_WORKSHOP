@@ -19,4 +19,4 @@ Project also includes use of temporary datasets and Generation Datasets.
 6. View SYSOUT & catalouged datasets to see successful results.
 
 ## Pics or it didn't happen.
-![JCL Demo gif](/screenshots/JCL_WORKSHOP.gif?raw=true "Method Gif")
+![JCL Demo gif](/SCREENSHOTS/JCL_WORKSHOP.gif?raw=true "Method Gif")
