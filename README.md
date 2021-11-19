@@ -9,6 +9,8 @@ Project also includes use of temporary datasets and Generation Datasets.
 * SDSF
 * pw3270
 * z/OS
+* VScode
+* ZOWE
 
 ## Method
 1. Write JCL program using TSO/ISPF
@@ -17,6 +19,8 @@ Project also includes use of temporary datasets and Generation Datasets.
 4. After zero return code, check results for expected output.
 5. If unexpected output then repeat steps 1-3 until desired output is achieved. 
 6. View SYSOUT & catalouged datasets to see successful results.
+7. Download program through ZOWE VScode extension. 
+8. Upload to Github & complete README.
 
 ## Pics or it didn't happen.
 ![JCL Demo gif](/SCREENSHOTS/JCL_WORKSHOP.gif?raw=true "Method Gif")
